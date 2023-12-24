@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zeta
-- 👀 I’m interested in Osint/Pentest/Steganographie/JS,Python,html,CSS,C+ and many others...
+- 👀 I’m interested in SecOps and Web dev
 - 🌱 I’m currently learning CSPF XSS...
 - 📫 How to reach me itz_zeta on Discord
 
